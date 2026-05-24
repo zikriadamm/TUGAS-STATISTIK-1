@@ -1,4 +1,7 @@
-# TUGAS-STATISTIK-1
-## Hasil Visualisasi
+# Linear Regression Salary Prediction
 
-![Linear Regression](linear_regression.png)
+Program machine learning sederhana menggunakan Linear Regression.
+
+## Visualisasi Data
+
+![Grafik](linear_regression.png)
